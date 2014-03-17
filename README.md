@@ -12,15 +12,15 @@ Download the zip file:
 
 ```
 cd ~
-wget https://github.com/wenzhixin/ubuntu-node-startup/archive/master.zip
-unzip node-startup-master.zip
+wget https://github.com/wenzhixin/ubuntu-node-startup/archive/master.zip -O ubuntu-node-startup.zip
+unzip ubuntu-node-startup.zip
 ```
 
 ```cd``` to your node app (example: app-name) and run:
 
 ```
 cd ~/www/app-name
-~/node-startup-master/conf.sh
+~/ubuntu-node-startup-master/conf.sh
 ```
 
 Copy the config file to ```/etc/init/```:
@@ -46,7 +46,8 @@ sudo reboot
 
 ## Supported OS
 
-Tested with Ubuntu 11.04, Ubuntu 11.10, Ubuntu 12.04, Ubuntu 12.10.
+Tested with Ubuntu 11.04, Ubuntu 11.10, Ubuntu 12.04, Ubuntu 12.10,
+I think it should work on other Ubuntu systems.
 
 ## LICENSE
 
