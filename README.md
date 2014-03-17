@@ -1,12 +1,12 @@
-## ubuntu-node-startup
+# ubuntu-node-startup
 
 Startup script for Ubuntu systems for running node app when rebooting from /etc/init conf.
 
-### Why ubuntu-node-startup?
+## Why ubuntu-node-startup?
 
 When my vps was rebooted occassionally by the hosting provider, my node.js app was not coming back online.
 
-### How to user?
+## How to user?
 
 Download the zip file:
 
@@ -44,10 +44,10 @@ Finally, reboot to be sure app starts automatically:
 sudo reboot
 ```
 
-### Supported OS
+## Supported OS
 
 Tested with Ubuntu 11.04, Ubuntu 11.10, Ubuntu 12.04, Ubuntu 12.10.
 
-### LICENSE
+## LICENSE
 
 [The MIT License](https://github.com/wenzhixin/ubuntu-node-startup/LICENSE)
