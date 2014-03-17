@@ -6,7 +6,7 @@ Startup script for Ubuntu systems for running node app when rebooting from /etc/
 
 When my vps was rebooted occassionally by the hosting provider, my node.js app was not coming back online.
 
-## How to user?
+## How to use?
 
 Download the zip file:
 
