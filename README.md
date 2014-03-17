@@ -50,4 +50,4 @@ Tested with Ubuntu 11.04, Ubuntu 11.10, Ubuntu 12.04, Ubuntu 12.10.
 
 ## LICENSE
 
-[The MIT License](https://github.com/wenzhixin/ubuntu-node-startup/LICENSE)
+[The MIT License](https://github.com/wenzhixin/ubuntu-node-startup/blob/master/LICENSE)
